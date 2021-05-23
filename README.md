@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🔥 Detection 🔥
-🧠 An Unsupervised Reinforcement Learning Pipeline for Video Frame Classification
+# 👨‍🔧 Hardware 👨‍🔧
+
+⚡ The Microcontrollers, Actuators, and Vision Sensors
 
 | **🚧 This is a Proof of Concept Project 🚧** |
 |:-------------------:|
@@ -9,39 +10,32 @@
 | **🚧 Authors are not Responsible for Damages to Life and Property if Deployed 🚧** |
 |:-------------------:|
 
+https://user-images.githubusercontent.com/31875325/119250705-88035700-bbbf-11eb-8afa-71d852f1f510.mp4
+
 ---
 
 </div>
 
-# About
+# Flowchart 🚀
 
-This repository houses code used to demonstrate project Agni.
+<div align="center">
 
-## Flowchart
-![alt text](https://imgur.com/el9L9ss.png "Raspberri Pi 3B")
+![alt text](https://imgur.com/el9L9ss.png)
 
-# Key Components
+</div>
 
-* Raspberri Pi 3B and Camera
+# Key Components 🧩
 
-![alt text](https://imgur.com/RAXWzPa.png "Raspberri Pi 3B")
+<div align="center">
 
-* NodeMCU
+| **Raspberry Pi** | **Node MCU** |
+|:------------:|:--------------:|
+![](https://i.imgur.com/C9AfhZs.png) | ![](https://i.imgur.com/gtGhQno.png)
+| **5V Relay** | **Submersible Water Pump** |
+![](https://i.imgur.com/TNArjUH.png) | ![](https://i.imgur.com/HdAUqIi.png)
 
-![alt text](https://imgur.com/MukJHTq.png "NodeMCU")
+</div>
 
-* 5v Relay
+# Usage 👨‍💻
 
-![alt text](https://imgur.com/J7pUQJk.png "Relay")
-
-* Submergible Pump
-
-![alt text](https://imgur.com/D2rNoOu.png "Relay")
-
-# Setup
-
-![alt text](https://imgur.com/YaBhGsc.png "Relay")
-
-# Usage
-
-Clone repository, prepare hardware setup and follow in-file instructions to run the code.
+Clone repository, prepare hardware setup, and follow in-file instructions to run the code.
